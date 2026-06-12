@@ -21,4 +21,4 @@ Since the Application does not collect any personal information, it is safe for 
 We may update our Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date.
 
 ### 6. Contact Us
-If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact us at: **senin-mail-adresin@gmail.com**
+If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact us at: **InfernalTech2150@gmail.com**
